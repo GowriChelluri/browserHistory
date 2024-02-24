@@ -1,0 +1,42 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 10px;
+}
+.app-logo {
+  height: 24px;
+  width: 24px;
+  margin-right: 10px;
+}
+.title {
+  font-size: 14px;
+  color: #475569;
+  font-weight: 600;
+  margin-right: 10px;
+}
+.domain {
+  font-size: 12px;
+  color: #64748b;
+
+  margin-right: 10px;
+}
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+.content-container {
+  display: flex;
+  align-items: center;
+}
+.item-container {
+  display: flex;
+  align-items: center;
+}
+.time {
+  font-size: 14px;
+  color: #475569;
+  margin-right: 20px;
+}
